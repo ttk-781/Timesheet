@@ -4,4 +4,5 @@ class Laptop{
   Integer ramCapacity;
   Integer screenSize;
   
+  String color;
 }
